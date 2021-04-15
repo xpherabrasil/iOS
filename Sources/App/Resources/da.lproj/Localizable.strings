@@ -415,6 +415,7 @@ Dine handlinger og din lokale konfiguration vil stadig være tilgængelige, efte
 "settings_details.location.notifications.visit.title" = "Gå til lokalitetsnotifikationer";
 "settings_details.location.notifications.x_callback_url.title" = "X-Callback-URL lokalitetsnotifikationer";
 "settings_details.location.title" = "Lokalitet";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Baggrundshentning";
 "settings_details.location.updates.footer" = "Manuelle lokalitetsopdateringer kan altid udløses";
 "settings_details.location.updates.header" = "Opdater kilder";

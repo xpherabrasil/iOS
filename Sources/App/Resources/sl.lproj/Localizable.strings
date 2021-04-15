@@ -415,6 +415,7 @@ Your actions and local configuration will still be available after logging in.";
 "settings_details.location.notifications.visit.title" = "Preglejte obvestila o lokaciji";
 "settings_details.location.notifications.x_callback_url.title" = "Obvestila o lokaciji X-Callback-URL";
 "settings_details.location.title" = "Location";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Background fetch";
 "settings_details.location.updates.footer" = "Manual location updates can always be triggered";
 "settings_details.location.updates.header" = "Update sources";

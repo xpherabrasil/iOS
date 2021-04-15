@@ -417,6 +417,7 @@ Your actions and local configuration will still be available after logging in.";
 "settings_details.location.notifications.visit.title" = "访问定位通知";
 "settings_details.location.notifications.x_callback_url.title" = "URL Scheme 定位通知";
 "settings_details.location.title" = "定位设置";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "后台推送";
 "settings_details.location.updates.footer" = "可随时手动更新位置信息";
 "settings_details.location.updates.header" = "更新源";

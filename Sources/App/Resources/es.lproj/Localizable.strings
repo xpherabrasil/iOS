@@ -415,6 +415,7 @@ Your actions and local configuration will still be available after logging in.";
 "settings_details.location.notifications.visit.title" = "Notificaciones de visita de ubicación";
 "settings_details.location.notifications.x_callback_url.title" = "Notificaciones de ubicación de X-Callback-URL";
 "settings_details.location.title" = "Configuración de ubicación";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Obtención en segundo plano";
 "settings_details.location.updates.footer" = "Las actualizaciones de ubicación siempre se pueden activar manualmente";
 "settings_details.location.updates.header" = "Fuentes de actualización";

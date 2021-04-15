@@ -413,6 +413,7 @@ Twoje działania i lokalna konfiguracja będą nadal dostępne po zalogowaniu.";
 "settings_details.location.notifications.visit.title" = "Visit Location Notifications";
 "settings_details.location.notifications.x_callback_url.title" = "X-Callback-URL Location Notifications";
 "settings_details.location.title" = "Lokalizacja";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Pobieranie w tle";
 "settings_details.location.updates.footer" = "Aktualizację lokalizacji zawsze można wywołać ręcznie";
 "settings_details.location.updates.header" = "Zaktualizuj źródła";

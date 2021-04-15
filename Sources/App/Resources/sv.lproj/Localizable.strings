@@ -415,6 +415,7 @@ Your actions and local configuration will still be available after logging in.";
 "settings_details.location.notifications.visit.title" = "Visit Location Notifications";
 "settings_details.location.notifications.x_callback_url.title" = "X-Callback-URL platsmeddelanden";
 "settings_details.location.title" = "Plats";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Hämtning i bakgrunden";
 "settings_details.location.updates.footer" = "Manuella platsuppdateringar kan alltid utlösas";
 "settings_details.location.updates.header" = "Uppdatering från";

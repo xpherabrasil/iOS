@@ -415,6 +415,7 @@
 "settings_details.location.notifications.visit.title" = "Notifiche di posizione di visita";
 "settings_details.location.notifications.x_callback_url.title" = "Aggiornamento posizione tramite X-Callback-URL";
 "settings_details.location.title" = "Impostazioni di posizione";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Aggiornamento in background";
 "settings_details.location.updates.footer" = "Gli aggiornamenti manuali della posizione possono comunque essere attivati.";
 "settings_details.location.updates.header" = "Fonti di aggiornamento";

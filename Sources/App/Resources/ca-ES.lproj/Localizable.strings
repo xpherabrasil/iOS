@@ -415,6 +415,7 @@ Les vostres accions i la configuració local encara estaran disponibles després
 "settings_details.location.notifications.visit.title" = "Consultar les notificacions d'ubicació";
 "settings_details.location.notifications.x_callback_url.title" = "Notificacions d'ubicació de X-Callback-URL";
 "settings_details.location.title" = "Ubicació";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Actualització en segon pla";
 "settings_details.location.updates.footer" = "Les actualitzacions d'ubicació manuals sempre es poden activar";
 "settings_details.location.updates.header" = "Fonts d’actualització";

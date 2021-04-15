@@ -415,6 +415,7 @@ Your actions and local configuration will still be available after logging in.";
 "settings_details.location.notifications.visit.title" = "Sijaintivierailuiden ilmoitukset";
 "settings_details.location.notifications.x_callback_url.title" = "X-callback-URL sijaintiilmoitukset";
 "settings_details.location.title" = "Sijainti";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Taustahaku";
 "settings_details.location.updates.footer" = "Sijainnin voi aina laukaista käsin";
 "settings_details.location.updates.header" = "Päivitä lähteet";

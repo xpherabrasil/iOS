@@ -415,6 +415,7 @@ Les balises fonctionneront sur tout appareil sur lequel Home Assistant est insta
 "settings_details.location.notifications.visit.title" = "Notifications d'emplacement:";
 "settings_details.location.notifications.x_callback_url.title" = "Emplacement via X-Callback-URL";
 "settings_details.location.title" = "Paramètres d'emplacement";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Actualisation en arrière-plan";
 "settings_details.location.updates.footer" = "Les mises à jour manuelles de l'emplacement peuvent toujours être déclenchées";
 "settings_details.location.updates.header" = "Mis à jour via";

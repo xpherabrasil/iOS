@@ -415,6 +415,7 @@ Vaše akce a místní konfigurace budou po přihlášení stále k dispozici.";
 "settings_details.location.notifications.visit.title" = "Visit Location Notifications";
 "settings_details.location.notifications.x_callback_url.title" = "X-Callback-URL Location Notifications";
 "settings_details.location.title" = "Poloha";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Načtení na pozadí";
 "settings_details.location.updates.footer" = "Ruční aktualizaci polohy lze spustit vždy";
 "settings_details.location.updates.header" = "Aktualizace zdrojů";

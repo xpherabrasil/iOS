@@ -415,6 +415,7 @@ Tags will work on any device with Home Assistant installed which has hardware su
 "settings_details.location.notifications.visit.title" = "Visit Location Notifications";
 "settings_details.location.notifications.x_callback_url.title" = "X-Callback-URL Location Notifications";
 "settings_details.location.title" = "Lleoliad";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Nôl cefndir";
 "settings_details.location.updates.footer" = "Gellir sbarduno diweddariadau lleoliad â llaw bob amser";
 "settings_details.location.updates.header" = "Diweddaru ffynonellau";

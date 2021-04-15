@@ -413,6 +413,7 @@ Your actions and local configuration will still be available after logging in.";
 "settings_details.location.notifications.visit.title" = "Уведомления о геопозиции";
 "settings_details.location.notifications.x_callback_url.title" = "X-Callback-URL Location Notifications";
 "settings_details.location.title" = "Местоположение";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Получение в фоне";
 "settings_details.location.updates.footer" = "Также всегда можно обновить геопозицию вручную";
 "settings_details.location.updates.header" = "Источники обновлений";

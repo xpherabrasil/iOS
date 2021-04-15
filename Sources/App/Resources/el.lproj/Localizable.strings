@@ -415,6 +415,7 @@
 "settings_details.location.notifications.visit.title" = "Επίσκεψη ειδοποιήσεων τοποθεσίας";
 "settings_details.location.notifications.x_callback_url.title" = "Ειδοποιήσεις τοποθεσίας X-Callback-URL";
 "settings_details.location.title" = "Τοποθεσία";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Ανανέωση background";
 "settings_details.location.updates.footer" = "Οι μη αυτόματες ενημερώσεις τοποθεσίας μπορούν πάντα να ενεργοποιούνται";
 "settings_details.location.updates.header" = "Ενημέρωση πηγών";

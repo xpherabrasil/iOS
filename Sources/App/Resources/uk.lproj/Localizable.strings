@@ -415,6 +415,7 @@
 "settings_details.location.notifications.visit.title" = "Сповіщення про відвідування розташувань";
 "settings_details.location.notifications.x_callback_url.title" = "X-Callback-URL сповіщення про розташування";
 "settings_details.location.title" = "Розташування";
+"settings_details.location.update_location" = "Update Location";
 "settings_details.location.updates.background.title" = "Фонове оновлення";
 "settings_details.location.updates.footer" = "Оновити розташування завжди можливо вручну";
 "settings_details.location.updates.header" = "Оновлення джерел";
